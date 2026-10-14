@@ -15,7 +15,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"better_day_counters" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
